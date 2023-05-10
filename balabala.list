@@ -1,0 +1,8 @@
+#自定义去广告，本地抓包记录，仅个人使用
+
+#天府市民云
+DOMAIN-SUFFIX,eshiyun.info
+
+#京东
+DOMAIN-SUFFIX,jpushjd.m.jd.com
+DOMAIN-SUFFIX,jpushsc.m.jd.com
