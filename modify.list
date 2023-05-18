@@ -9,6 +9,19 @@ DOMAIN-SUFFIX,jpushsc.m.jd.com
 DOMAIN-SUFFIX,anti-sdk-report.m.jd.com
 DOMAIN-SUFFIX,anti-sdk-ccs.m.jd.com
 DOMAIN-SUFFIX,jddebug.com
+DOMAIN-SUFFIX,waapdg.jd.com
 
 #DeepL
 DOMAIN-SUFFIX,errortracking.deepl.com
+
+#贝壳找房
+DOMAIN-SUFFIX,et.tanx.com
+DOMAIN-SUFFIX,i-shadow2.ke.com
+DOMAIN-SUFFIX,public-riskfront.ke.com
+DOMAIN-SUFFIX,pushapi.ke.com
+
+#中国电信
+DOMAIN-SUFFIX,appgoad.189.cn
+DOMAIN-SUFFIX,reportappgo.189.cn
+DOMAIN-SUFFIX,bigdata-behaviordata.189.cn
+IP-CIDR,114.132.165.205/24,no-resolve
