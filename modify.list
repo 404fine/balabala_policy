@@ -24,4 +24,3 @@ DOMAIN-SUFFIX,pushapi.ke.com
 DOMAIN-SUFFIX,appgoad.189.cn
 DOMAIN-SUFFIX,reportappgo.189.cn
 DOMAIN-SUFFIX,bigdata-behaviordata.189.cn
-IP-CIDR,114.132.165.205/24,no-resolve
