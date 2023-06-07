@@ -34,3 +34,6 @@ DOMAIN-SUFFIX,luas.im.ke.com
 DOMAIN-SUFFIX,appgoad.189.cn
 DOMAIN-SUFFIX,reportappgo.189.cn
 DOMAIN-SUFFIX,bigdata-behaviordata.189.cn
+
+#腾讯视频
+DOMAIN-SUFFIX,h.trace.qg.com
