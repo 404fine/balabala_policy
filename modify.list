@@ -36,4 +36,5 @@ DOMAIN-SUFFIX,reportappgo.189.cn
 DOMAIN-SUFFIX,bigdata-behaviordata.189.cn
 
 #腾讯视频
-DOMAIN-SUFFIX,h.trace.qg.com
+DOMAIN-SUFFIX,h.trace.qq.com
+DOMAIN-SUFFIX,btrace.video.qq.com
