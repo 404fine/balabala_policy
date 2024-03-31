@@ -10,6 +10,13 @@ DOMAIN-SUFFIX,anti-sdk-report.m.jd.com
 DOMAIN-SUFFIX,anti-sdk-ccs.m.jd.com
 DOMAIN-SUFFIX,jddebug.com
 DOMAIN-SUFFIX,waapdg.jd.com
+DOMAIN-SUFFIX,lbsgw.m.jd.com
+DOMAIN-SUFFIX,knicks.jd.com
+DOMAIN-SUFFIX,dg.k.jd.com
+DOMAIN-SUFFIX,xlog.jd.com
+DOMAIN-SUFFIX,dgstatic.jd.com
+DOMAIN-SUFFIX,plogin.m.jd.com
+DOMAIN-SUFFIX,aks.jdpay.com
 
 #DeepL
 DOMAIN-SUFFIX,errortracking.deepl.com
@@ -35,25 +42,34 @@ DOMAIN-SUFFIX,appgoad.189.cn
 DOMAIN-SUFFIX,reportappgo.189.cn
 DOMAIN-SUFFIX,bigdata-behaviordata.189.cn
 
-#腾讯视频
-DOMAIN-SUFFIX,h.trace.qq.com
-DOMAIN-SUFFIX,btrace.video.qq.com
-
 #脉脉
 DOMAIN-SUFFIX,track.mm.taou.com
 DOMAIN-SUFFIX,sessions.bugsnag.com
 DOMAIN-SUFFIX,f9.taou.com
 DOMAIN-SUFFIX,tk2.taou.com
 
-#腾讯系
+#tencent
 DOMAIN-SUFFIX,mazu.m.qq.com
 DOMAIN-SUFFIX,report.qqweb.qq.com
 DOMAIN-SUFFIX,trace.qq.com
 DOMAIN-SUFFIX,moviets.tc.qq.com
+DOMAIN-SUFFIX,h.trace.qq.com
+DOMAIN-SUFFIX,btrace.video.qq.com
+DOMAIN-SUFFIX,sdk.e.qq.com
 
-#其他
+#other
 DOMAIN-SUFFIX,unet.quark.cn
 DOMAIN-SUFFIX,pangolin-dsp-toutiao.com
 DOMAIN-SUFFIX,analytics.umetrip.com
 DOMAIN-SUFFIX,dualstack-mpsapi.amap.com
 DOMAIN-SUFFIX,analytics.95516.com
+DOMAIN-SUFFIX,et.tanx.com
+
+#porn
+DOMAIN-SUFFIX,madou.club
+DOMAIN-SUFFIX,pornhub.com
+DOMAIN-SUFFIX,91porn.com
+DOMAIN-SUFFIX,t66y.com
+DOMAIN-SUFFIX,xvideos.com
+DOMAIN-KEYWORD,porn
+DOMAIN-KEYWORD,jav
