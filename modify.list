@@ -25,7 +25,7 @@ DOMAIN-SUFFIX,errortracking.deepl.com
 DOMAIN-SUFFIX,i-shadow2.ke.com
 DOMAIN-SUFFIX,public-riskfront.ke.com
 DOMAIN-SUFFIX,pushapi.ke.com
-DOMAIN-SUFFIX,onepass.geetest.com
+DOMAIN-SUFFIX,onepass.geetest.com will start
 DOMAIN-SUFFIX,app-profile.ke.com
 DOMAIN-SUFFIX,scene.ke.com
 DOMAIN-SUFFIX,app-gateway-realsee.ke.com
@@ -66,10 +66,8 @@ DOMAIN-SUFFIX,analytics.95516.com
 DOMAIN-SUFFIX,et.tanx.com
 
 #porn
-DOMAIN-SUFFIX,madou.club
 DOMAIN-SUFFIX,pornhub.com
 DOMAIN-SUFFIX,91porn.com
-DOMAIN-SUFFIX,t66y.com
 DOMAIN-SUFFIX,xvideos.com
 DOMAIN-KEYWORD,porn
 DOMAIN-KEYWORD,jav
